@@ -1,0 +1,5 @@
+C:\Users\Hur\Desktop\CCc c\CCc c\bin\Release\CCc c.exe.config
+C:\Users\Hur\Desktop\CCc c\CCc c\bin\Release\CCc c.exe
+C:\Users\Hur\Desktop\CCc c\CCc c\bin\Release\CCc c.pdb
+C:\Users\Hur\Desktop\CCc c\CCc c\obj\Release\CCc c.exe
+C:\Users\Hur\Desktop\CCc c\CCc c\obj\Release\CCc c.pdb

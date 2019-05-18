@@ -1,0 +1,54 @@
+﻿section @cc
+{
+public static number @s%
+
+sentence @a = **abc**%
+decimal @e%
+
+}
+
+section @ce extend @cc
+{
+public static number @s%
+sentence @a%
+decimal @e%
+
+} 
+main(){
+}
+section @class \\extend @cc
+{
+@cc @j%
+number @a%
+\\decimal @a%
+null @asd(number[] @w,@cc @e,@cc @r)
+{
+
+
+
+if(@s==@d)
+ {
+  
+ }
+ else
+ {
+ }
+ if(@s==@d)
+ {
+  
+ }
+ else
+ {
+ }
+back%
+}
+number @asd(number[] @w,@cc @e,@cc @r)
+{
+back 5%
+}
+number @asd(sentence @w,number @t)
+{
+back 1%
+}
+}
+
